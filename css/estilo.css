@@ -1,0 +1,32 @@
+html, body {
+    margin: 0;
+    font-family: serif;
+}
+
+#login {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+#barranav {
+    border-bottom: 1px solid #a9b9fe;
+    width: 100%;
+    float: left;
+    padding-bottom: 0.2%;
+    padding-top: 0.2%;
+}
+
+#menu, #usuario {
+    display: inline;
+}
+
+#menu {
+    float: left;
+    margin-left: 0.5%;
+}
+
+#usuario {
+    float:right;
+    margin-right: 0.5%;
+}
