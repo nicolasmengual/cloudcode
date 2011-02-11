@@ -7,9 +7,9 @@ class configuracion {
     
     function __construct() {
         $this->servidor = 'localhost';
-        $this->usuario = 'root';
-        $this->password = 'mengual';
-        $this->bd = 'mydb';
+        $this->usuario = '';
+        $this->password = '';
+        $this->bd = '';
     }
     
     function __destruct() {
